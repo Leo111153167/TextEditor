@@ -1,0 +1,16 @@
+C:\Users\linmm\Desktop\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\Users\linmm\Desktop\TextEditor\obj\Debug\TextEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\linmm\Desktop\TextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\linmm\Desktop\TextEditor\obj\Debug\App.g.cs
+C:\Users\linmm\Desktop\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+C:\Users\linmm\Desktop\TextEditor\obj\Debug\TextEditor_MarkupCompile.lref
+C:\Users\linmm\Desktop\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\linmm\Desktop\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\linmm\Desktop\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\linmm\Desktop\TextEditor\obj\Debug\MainWindow.baml
+C:\Users\linmm\Desktop\TextEditor\obj\Debug\TextEditor.g.resources
+C:\Users\linmm\Desktop\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\linmm\Desktop\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\linmm\Desktop\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\linmm\Desktop\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\linmm\Desktop\TextEditor\obj\Debug\TextEditor.pdb
